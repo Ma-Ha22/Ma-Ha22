@@ -1,4 +1,4 @@
-<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="170px"/>
 <h1 align="center">Hi 👋, I'm Maha</h1>
 <h3 align="center">I am a .Net Full Stack Developer from Giza, Egypt.</h3>
 
